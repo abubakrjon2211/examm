@@ -1,0 +1,61 @@
+.lists{
+    display: block;
+    background-color: red;
+    font-size: 18px;
+}
+.A{
+    background-color: red;
+    font-size: 35px;
+}
+.b{
+    text-align: center;
+    color: #ffffff;
+    
+    
+}
+.b button{
+    background-color: black;
+    color: #ffffff;
+    font-size: 20px;
+}
+.c{
+    width: 60%;
+    margin: 0 auto;
+}
+.c img{
+    display: inline-block;
+    /* padding-left: 150%; */
+    margin-top: 60px;
+}
+.e{
+   background-color: black;
+   padding-left: 38%;
+   color: #ffffff;
+   padding-top: 8px;
+   padding-bottom: 8px;
+}
+.p{
+    display: inline-block;
+    width: 73%;
+}
+.A{
+    padding: 128px 16px ;
+}
+.d{
+    margin: 0 auto;
+}
+.d img{
+    padding-left: 20%;
+    display: inline-block;
+    margin-top: 60px;
+}
+.k{
+    display: inline-block;
+    width: 48%;
+}
+.l{
+ text-align: center;
+}
+.d{
+    background-color: F1F1F1;
+}

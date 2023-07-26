@@ -1,0 +1,174 @@
+.conteiner{
+    background-color: #629dbb;
+}
+.div{
+    padding-top: 41px;
+    padding-left: 160px;
+    display: flex;
+}
+.div p{
+    color: #25468A;
+    width: 137px;
+    font-weight: 700;
+    font-size: 23px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 10%;
+    font-weight: 500;
+    font-size: 16px;
+    color: #25468A;
+}
+.ul{
+    width: 37px;
+}
+.q{
+    width: 50px;
+}
+.r{
+    width: 41px;
+}
+.y{
+    width: 158px;
+}
+.divforli{
+    padding-left: 400px;
+    display: flex;
+}
+.divforli p{
+    width: 80px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #14274C;
+    background-color: white;
+    border-radius: 20px;
+    padding: 10px;
+}
+.div2{
+    width: 543px;
+    font-weight: 700;
+   
+    color: #25468A;
+}
+.p{
+    background-color: yellow;
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 394px;
+}
+.img{
+  justify-content: flex-end;
+}
+.div1{
+    display: flex;
+}
+.p1-1{
+    background-color: skyblue;
+    border-radius: 8px;
+    padding: 10px;
+}
+.div3{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    color: white;
+}
+.p2-2{
+    background-color: skyblue;
+    border-radius: 3px;
+    padding: 10px;
+}
+.p3-3{
+    background-color: skyblue;
+    border-radius: 3px;
+    padding: 10px;
+}
+.w{
+    margin: 0 auto;
+    width: 27%;
+    font-size: 41px;
+    color: black;
+}
+.img1{
+    display: flex;
+    justify-content: center;
+}
+.i4{
+  width: 209px;
+  font-weight: 400;
+  font-size: 16px;
+}
+.i3{
+    width: 448px;
+    font-weight: 700;
+    font-size: 32px;
+}
+.i2{
+    width: 448px;
+    font-weight: 400;
+    font-size: 18px;
+}
+.img2{
+    display: flex;
+    justify-content: center;
+}
+.m4{
+  width: 209px;
+  font-weight: 400;
+  font-size: 16px;
+}
+.m3{
+    width: 448px;
+    font-weight: 700;
+    font-size: 32px;
+}
+.m2{
+    width: 448px;
+    font-weight: 400;
+    font-size: 18px;
+}
+.img3{
+    display: flex;
+    justify-content: center;
+}
+.g4{
+  width: 209px;
+  font-weight: 400;
+  font-size: 16px;
+}
+.g3{
+    width: 448px;
+    font-weight: 700;
+    font-size: 32px;
+}
+.g2{
+    width: 448px;
+    font-weight: 400;
+    font-size: 18px;
+}
+.e1{
+    font-size: 36px;
+    width: 367px;
+    font-weight: 300;
+}
+.e2{
+    font-size: 18px;
+    width: 481px;
+    font-weight: 400;
+}
+.n2{
+    width: 481px;
+    font-weight: 400;
+    font-size: 18px;
+}
+.n1{
+    width: 123px;
+    font-weight: 300;
+    font-size: 36px;
+}
+.div_2{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
